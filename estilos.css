@@ -1,0 +1,26 @@
+body{
+font-family: arial;
+font-size:12px;
+text-align:justify;
+margin-top: 10px;
+margin-left: 5px; 
+background-color: gray;
+}
+h1{
+text-align:right;
+text-transform:uppercase;
+color:white;
+font-size: 30px;
+background-color: black;
+}
+h2{
+text-transform:uppercase;
+color:gray;
+background-color: black;
+}
+h4{
+text-transform:uppercase;
+}
+h5{
+text-transform:uppercase;
+}
